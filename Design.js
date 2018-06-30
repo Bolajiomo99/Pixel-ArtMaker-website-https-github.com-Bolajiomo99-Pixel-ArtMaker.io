@@ -1,4 +1,4 @@
-//Author: MaestroJolly
+//Author: Bolaji js
 
 // Select color input
 // Select size input
